@@ -7,5 +7,6 @@ target 'SimpsonsViper' do
 
   # Pods for SimpsonsViper
   pod 'SnapKit'
+  pod 'SDWebImage'
   
 end

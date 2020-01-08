@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B3ABAC07D20E5AA62A8CA7045B6D0BBE"
+               BlueprintIdentifier = "ACE5911CD976AD8A792A7CF65F19AC48"
                BuildableName = "Pods_SimpsonsViper.framework"
                BlueprintName = "Pods-SimpsonsViper"
                ReferencedContainer = "container:Pods.xcodeproj">
